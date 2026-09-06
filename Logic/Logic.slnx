@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/32/" />
+  <Folder Name="/33/" />
+  <Folder Name="/Shared/">
+    <Project Path="ConsoleExtension/Shared.csproj" />
+  </Folder>
+</Solution>
