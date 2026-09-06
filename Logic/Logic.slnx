@@ -1,6 +1,10 @@
 <Solution>
-  <Folder Name="/32/" />
-  <Folder Name="/33/" />
+  <Folder Name="/32/">
+    <Project Path="Rhombus/Rhombus.csproj" />
+  </Folder>
+  <Folder Name="/33/">
+    <Project Path="Matrix/Matrix.csproj" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="ConsoleExtension/Shared.csproj" />
   </Folder>
