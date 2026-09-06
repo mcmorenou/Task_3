@@ -15,7 +15,7 @@ do
 
 
     //Data input
-    Console.WriteLine("***Matrix***");
+    Console.WriteLine("********Matrix********");
     Console.WriteLine();
     var m = ConsoleExtension.GetInt("Enter the value of m:");
     var n = ConsoleExtension.GetInt("Enter the value of n:");
