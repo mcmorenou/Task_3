@@ -3,7 +3,7 @@
     <Project Path="Rhombus/Rhombus.csproj" />
   </Folder>
   <Folder Name="/33/">
-    <Project Path="Matrix/Matrix.csproj" />
+    <Project Path="Matrix/MatrixMultiplication.csproj" />
   </Folder>
   <Folder Name="/Shared/">
     <Project Path="ConsoleExtension/Shared.csproj" />
