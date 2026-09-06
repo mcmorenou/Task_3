@@ -14,7 +14,7 @@ do
 
 
     //Data input
-    Console.WriteLine("***RHOMBUS***");
+    Console.WriteLine("************RHOMBUS************");
     var size = ConsoleExtension.GetInt("Enter the size of the rhombus:");
 
 
@@ -50,5 +50,5 @@ do
 } while (answer!.Equals("s", StringComparison.CurrentCultureIgnoreCase));
 
 
-Console.WriteLine("GOOD DAY.");
+Console.WriteLine("********GOOD LUCK********");
 
