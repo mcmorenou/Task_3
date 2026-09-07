@@ -1,4 +1,4 @@
 <Solution>
+  <Project Path="../../Task_2/Frontend/Frontend.csproj" />
   <Project Path="Backend/Backend.csproj" />
-  <Project Path="Frontend/Frontend.csproj" />
 </Solution>

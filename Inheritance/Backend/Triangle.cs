@@ -9,7 +9,7 @@ public class Triangle: Rectangle
     private double _c;
 
     // Constructors
-    public Parallelogram(string name, double a, double b, double h, double c) : base(name, a, b)
+    public Triangle(string name, double a, double b, double h, double c) : base(name, a, b)
     {
         H = h;
         C = c;
